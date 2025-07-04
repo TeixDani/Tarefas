@@ -1,2 +1,2 @@
 # Tarefas
-Lista
+Lista de tarefas feita em python
